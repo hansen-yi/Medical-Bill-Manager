@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Medical-Bill-Manager/static/css/main.e6c13ad2.css",
-    "main.js": "/Medical-Bill-Manager/static/js/main.bd6d7486.js",
+    "main.js": "/Medical-Bill-Manager/static/js/main.d168aef3.js",
     "static/js/787.3dacac6f.chunk.js": "/Medical-Bill-Manager/static/js/787.3dacac6f.chunk.js",
     "index.html": "/Medical-Bill-Manager/index.html",
     "main.e6c13ad2.css.map": "/Medical-Bill-Manager/static/css/main.e6c13ad2.css.map",
-    "main.bd6d7486.js.map": "/Medical-Bill-Manager/static/js/main.bd6d7486.js.map",
+    "main.d168aef3.js.map": "/Medical-Bill-Manager/static/js/main.d168aef3.js.map",
     "787.3dacac6f.chunk.js.map": "/Medical-Bill-Manager/static/js/787.3dacac6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bd6d7486.js"
+    "static/js/main.d168aef3.js"
   ]
 }
